@@ -1,2 +1,4 @@
-# -SQL_Music_Store_Analysis
-data
+# -SQL_DVD_STORE
+SQL project to analyze the customer demand
+
+
