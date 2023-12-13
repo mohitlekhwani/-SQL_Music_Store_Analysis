@@ -8,7 +8,7 @@ Database and Tools
 
 •	PgAdmin4
 
-Schemas- DVD store Database
+Schemas- dvdrental.tar
 
 ![image](https://github.com/mohitlekhwani/SQL_DVD_STORE/assets/151724039/56e1ac1c-9ef1-4f29-a416-2e966d6b02ac)
 
