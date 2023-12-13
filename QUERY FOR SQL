@@ -27,11 +27,11 @@ LIMIT 1;
 
 1. Solution Below:
 
-SELECT * FROM cd.facilities WHERE membercost > 0;
+SELECT name, membercost FROM cd.facilities;
 
 2. Solution Below:
 
-SELECT MAX(joindate) AS latest_signup FROM cd.members;
+SELECT * FROM cd.facilities WHERE membercost > 0;
 
 3. Solution Below:
 
