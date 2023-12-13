@@ -1,6 +1,7 @@
                                                     Questions
 
                                                     ASSESSMENT TEST 1
+                                            {Using the data of dvdrental.tar}
 
 1. Return the customer IDs of customers who have spent at least $110 with the staff member who has
  an ID of 2.
@@ -11,6 +12,7 @@
 ID lower than 500?
 
                                                     ASSESSMENT TEST 2
+                                              {Using the data of 
 
 1.You want to print out a list of all of the facilities and their cost to members.
 How would you retrieve a list of only facility names and costs?
