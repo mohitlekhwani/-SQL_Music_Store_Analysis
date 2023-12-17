@@ -1,6 +1,6 @@
                                                       QUERY FOR THE QUESTIONS
 
-                                                      ASSESMENT TEST 1
+                                                      Answers Set 1 - Easy
 
 1. Solution Below:
 
@@ -23,7 +23,7 @@ AND address_id <500
 ORDER BY customer_id DESC
 LIMIT 1;
 
-                                                        ASSESMENT TEST 2
+                                                        Answers Set 2 - Moderate
 
 1. Solution Below:
 
@@ -40,7 +40,7 @@ SELECT facid, name, membercost, monthlymaintenance
  WHERE membercost > 0 AND
  (membercost < monthlymaintenance/50.0);
 
-                                                      ASSESMENT TEST 3
+                                                      Answers set 3 - Advance
 
 1. Solution Below:
 
