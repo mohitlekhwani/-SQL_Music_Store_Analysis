@@ -1,6 +1,6 @@
                                                     Questions
 
-                                                    ASSESSMENT TEST 1
+                                                    Questions Set 1- Easy
                                             {Using the data of dvdrental.tar}
 
 1. Return the customer IDs of customers who have spent at least $110 with the staff member who has
@@ -11,7 +11,7 @@
 3. What customer has the highest customer ID number whose name starts with an 'E' and has an address
 ID lower than 500?
 
-                                                    ASSESSMENT TEST 2
+                                                    Questions Set 2 - Moderate
                                               {Using the data of exercises.tar}
 
 1.You want to print out a list of all of the facilities and their cost to members.
@@ -23,7 +23,7 @@ How would you retrieve a list of only facility names and costs?
 than 1/50th of the monthly maintenance cost? Return the facid, facility name, member cost, 
 and monthly maintenance of the facilities in question.
                                                     
-                                                    ASSESSMENT TEST 3
+                                                    questions Set 3 - Advance
                                                 {Using the data of exercises.tar}
 
 1.How can you produce a list of members who joined after the start of September 2012?
