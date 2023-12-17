@@ -13,4 +13,9 @@ Schemas- dvdrental.tar
 ![image](https://github.com/mohitlekhwani/SQL_DVD_STORE/assets/151724039/56e1ac1c-9ef1-4f29-a416-2e966d6b02ac)
 
 
+Schemas- exercises
+
+
+![image](https://github.com/mohitlekhwani/SQL_DVD_STORE/assets/151724039/eb8aca5e-3037-4095-8bf2-602f69044afc)
+
 
